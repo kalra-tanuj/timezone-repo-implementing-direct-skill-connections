@@ -1,0 +1,25 @@
+{
+    "topic": {
+        "topicId": "ProductDeals.Update.Activated",
+        "view": {
+            "localized": {
+                "en-US": {
+                    "title": "Product Alerts",
+                    "description": "Product Alerts from the ProductDeals.Update Skill"
+                },
+                "es-US": {
+                    "title": "Alertas de productos",
+                    "description": "Alertas de producto de la skill ProductDeals.Update"
+                },
+                "en-IN": {
+                    "title": "Product Alerts",
+                    "description": "Product Alerts from the ProductDeals.Update Skill"
+                },
+                "en": {
+                    "title": "Product Alerts",
+                    "description": "Product Alerts from the ProductDeals.Update Skill"
+                }
+            }
+        }
+    }
+}

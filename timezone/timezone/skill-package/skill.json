@@ -110,7 +110,8 @@
         {
           "eventName": "AMAZON.Notifications.TopicUpdated",
           "topicIds": [
-            "ProductAlerts.Activated"
+            "ProductAlerts.Activated",
+            "ProductDeals.Update.Activated"
           ]
         }
       ]
